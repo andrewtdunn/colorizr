@@ -7,7 +7,7 @@ class String
                 "pink" => "95",
                 "light_blue" => "96",
                 "white" => "97",
-                "light_grey" => "27",
+                "light_grey" => "37",
                 "black" => "30"
             }
 
