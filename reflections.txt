@@ -10,3 +10,7 @@ Re-opening the String class, then using the send method and :define_method to cr
 
 Where do you still have room to grow?
 Meta-programming will probably require a lot more practice, and I will need to find or create a suitable project to use it
+
+How does your gem take advantage of Ruby's meta-programming capabilities?
+
+The colorizr gem uses define_method to generate color methods. The gem also uses send to dynamically call each color method in the sample_colors method.
