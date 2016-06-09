@@ -1,0 +1,12 @@
+Andrew Dunn
+colorizr
+06-09-2016
+
+How long did you spend working on this project?
+2 days
+
+What was the most rewarding challenge you conquered?
+Re-opening the String class, then using the send method and :define_method to create the color methods
+
+Where do you still have room to grow?
+Meta-programming will probably require a lot more practice, and I will need to find or create a suitable project to use it

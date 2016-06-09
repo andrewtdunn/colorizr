@@ -16,8 +16,8 @@ class String
     end
 
     def self.sample_colors
-        @@colors.each do |key, value|
-            puts "This is \e[#{value}m#{key}\e[0m"
+        @@colors.keys.each do |key|
+            puts "This is " + key.send("#{key}")
         end
     end
 
