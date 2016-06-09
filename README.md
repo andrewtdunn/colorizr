@@ -22,3 +22,6 @@ prints "Julio" in green to the terminal
 within project directory:
 * gem build colorizr.gemspec
 * gem install colorizr-0.0.1.gem
+
+to include in code:
+require 'colorizr'
