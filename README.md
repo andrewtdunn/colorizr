@@ -4,9 +4,13 @@ A gem to add color to terminal output.
 
 ##Usage
 
-To see a sample list of available colors: String.sample_colors
+To see a sample list of available colors:
 
-To use on any string - "Sample String".(color_name)
+String.sample_colors
+
+To use on any string :
+
+"Sample String".(color_name)
 
 Example:
 
