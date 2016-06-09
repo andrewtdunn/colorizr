@@ -4,6 +4,10 @@ A gem to add color to terminal output.
 
 ##Usage
 
+To include in code:
+
+require 'colorizr'
+
 To see a sample list of available colors:
 
 String.sample_colors
@@ -22,7 +26,3 @@ prints "Julio" in green to the terminal
 within project directory:
 * gem build colorizr.gemspec
 * gem install colorizr-0.0.1.gem
-
-To include in code:
-
-require 'colorizr'
