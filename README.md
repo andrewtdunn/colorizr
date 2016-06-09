@@ -15,6 +15,6 @@ prints "Julio" in green to the terminal
 
 ##Installation
 
-within project directory
- gem build colorizr.gemspec
- gem install colorizr-0.0.1.gem
+within project directory:
+* gem build colorizr.gemspec
+* gem install colorizr-0.0.1.gem
